@@ -31,7 +31,7 @@ services:
             - REDIS_HOST=redis
             - REDIS_PORT=6379
             - PGUSER=kohei
-            - PGPASSWORD=kirin123!
+            - PGPASSWORD=testpassword
             - PGHOST=postgres
             - PGDATABASE=complex
             - PGPORT=5432
