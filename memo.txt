@@ -1,0 +1,3 @@
+docker build -t complex/client -f Dockerfile.dev .
+docker build -t complex/server -f Dockerfile.dev .
+docker build -t complex/worker -f Dockerfile.dev .
